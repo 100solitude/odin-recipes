@@ -1,0 +1,21 @@
+.title {
+    background-color: burlywood;
+    color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+}
+
+.r1 {
+    background-color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.r2 {
+    background-color: antiquewhite;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.r3 {
+    background-color: blanchedalmond;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
